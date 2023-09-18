@@ -137,6 +137,13 @@ border: 1px solid #aaa;
 .dv:hover{  
 border: 1px solid #aaa;
 }
+#clinic{
+	width: 100%;
+	min-height: 300px;
+	background: url("../images/why.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover
 #client .hinh{
 	width: 100%;
 	position: relative;
