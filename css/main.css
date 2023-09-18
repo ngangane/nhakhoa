@@ -93,6 +93,50 @@ footer .icon a:hover{
 	background-position: center top;
 	background-size: cover
 }
+#lienhe{
+	width: 100%;
+	min-height: 300px;
+	background: url("../images/pagekh.png");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover
+}
+#hotro{
+	width: 100%;
+}
+#dichvu2{
+	width: 100%;
+}
+#khachhang{
+	width: 100%;
+	min-height: 300px;
+	background: url("../images/pagekh.png");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover
+}
+.search-box {  
+display: inline-block;  
+width: 100%;  
+border-radius: 3px;  
+padding: 4px 55px 4px 15px;  
+position: relative;  
+background:#E9FBFB;  
+border: 1px solid #ddd;  
+-webkit-transition: all 200ms ease-in-out;  
+-moz-transition: all 200ms ease-in-out;  
+transition: all 200ms ease-in-out;
+}
+ 
+.search-box:hover{  
+border: 1px solid #aaa;
+}
+.dv{
+	background:#E9FBFB; 
+}
+.dv:hover{  
+border: 1px solid #aaa;
+}
 #client .hinh{
 	width: 100%;
 	position: relative;
@@ -146,6 +190,10 @@ footer .icon a:hover{
 #tintuc a:hover{
 	color: #FFC113;
 }
+.btn:hover{  
+border: 1px solid #aaa;
+}
+
 
 
 
