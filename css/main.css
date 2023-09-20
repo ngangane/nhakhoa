@@ -101,6 +101,15 @@ footer .icon a:hover{
 	background-position: center top;
 	background-size: cover
 }
+#sukien{
+	width: 100%;
+	min-height: 300px;
+	background: url("../images/pagekh.png");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover
+}
+	
 #hotro{
 	width: 100%;
 }
