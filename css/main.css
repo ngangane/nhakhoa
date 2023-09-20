@@ -159,6 +159,7 @@ border: 1px solid #aaa;
 	position: relative;
 	
 }
+
 #client .before{
 	position: absolute;
 	left: 0;
@@ -210,7 +211,10 @@ border: 1px solid #aaa;
 .btn:hover{  
 border: 1px solid #aaa;
 }
-
+.text-giua{
+	text-align:center;
+	font-size: 18px
+}
 
 
 
